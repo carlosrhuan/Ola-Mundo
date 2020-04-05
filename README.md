@@ -3,4 +3,4 @@
 
 Repositório criado durante a aula!
 
-Essa linha add diretamenta no site!
+Essa linha eu add diretamenta no site!
